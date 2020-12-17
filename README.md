@@ -3,6 +3,7 @@
 * In my free time I love smimming
 
 ### Currently working on:
+###### [Sprawdź ten link!!!](https://kubakonieczny.github.io/KubaKonieczny/)
 [Project-Maze](https://github.com/AGH-Narzedzia-Informatyczne/Project-Maze):
 - Quiz
 
