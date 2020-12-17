@@ -5,7 +5,8 @@
 ### Currently working on:
 [Project-Maze](https://github.com/AGH-Narzedzia-Informatyczne/Project-Maze):
 - Quiz
-Here is a poster which represent GUI of our programs:
+
+ Here is a poster which represent GUI of our programs:
 ![Plakt Projektu](Poster_Projektu.png)
 
 ### Support or Contact
