@@ -5,6 +5,7 @@
 ### Currently working on:
 [Project-Maze](https://github.com/AGH-Narzedzia-Informatyczne/Project-Maze):
 - Quiz
+![Plakt Projektu](Poster_Projektu.png)
 
 ### Support or Contact
  no necessary
