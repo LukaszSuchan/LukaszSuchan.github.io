@@ -9,6 +9,8 @@
  Here is a poster which represent GUI of our programs:
 ![Plakt Projektu](Poster_Projektu.png)
 
+## [Sprawdź ten link!!!](https://kubakonieczny.github.io/KubaKonieczny/)
+
 ### Support or Contact
  no necessary
 
